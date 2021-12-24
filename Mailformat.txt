@@ -1,0 +1,11 @@
+<html>
+ <body>
+<div style='font-size:20px;font-family:calibri'>
+  Dear Username,<BR><BR>
+Greetings for the day!<BR><BR>
+We are reaching out to you as you have overdue transactions pending for submission.
+As per the <a href='https://www.google.com/'>policy</a> please submit the transactions within 30 days.<BR><BR>
+<b style='color:red'><u>Note: Please ignore if already submitted</u></b>
+</div>
+</body>
+</html>
